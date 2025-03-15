@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # Stable Diffusion CPU only
 
 This fork of Stable-Diffusion doesn't require a high end graphics card and runs exclusively on your cpu. It's been tested on Linux Mint 22.04 and Windows 10.
